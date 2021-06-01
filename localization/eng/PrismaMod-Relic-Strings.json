@@ -1,0 +1,51 @@
+{
+  "PrismaMod:AliceRelic": {
+    "NAME": "Мишка Алисы",
+    "FLAVOR": "Сиро?",
+    "DESCRIPTIONS": [
+      "Вы берёте 2 карты, когда умирает враг."
+      ]
+  },
+  "PrismaMod:PrismaRuby": {
+    "NAME": "Руби",
+    "FLAVOR": "Калейдожезл, который делает подозрительные вещи.",
+    "DESCRIPTIONS": [
+      "Заряжает 1 случайную сферу в начале боя."
+    ]
+  },
+  "PrismaMod:PrismaZwei": {
+    "NAME": "Жезл Цвай",
+    "FLAVOR": "Комбинированный Калейдожезл, обладающий невообразимой мощью.",
+    "DESCRIPTIONS": [
+      "Заряжает 1 случайную сферу в начале каждого хода."
+    ]
+  },
+  "PrismaMod:PrismaTraceOn": {
+    "NAME": "Каншо и Бакуя",
+    "FLAVOR": "Trace on",
+    "DESCRIPTIONS": [
+      "Каждые 25 карт #yОтслеживает карту."
+    ]
+  },
+  "PrismaMod:PrismaTraceOnUpgrade": {
+    "NAME": "Каншо и Бакуя+",
+    "FLAVOR": "Trace on+",
+    "DESCRIPTIONS": [
+      "Каждые 20 карт #yОтслеживает улучшенную карту."
+    ]
+  },
+  "PrismaMod:PrismaSapphire": {
+    "NAME": "Сапфир",
+    "FLAVOR": "Калейдожезл, который может волшебным образом помочь вам танцевать.",
+    "DESCRIPTIONS": [
+      "Заряжает 1 сферу в начале боя."
+    ]
+  },
+  "PrismaMod:PrismaSapphireUpgrade": {
+    "NAME": "Сапфир+",
+    "FLAVOR": "Калейдожезл, который повышает вашу боевую эффективность.",
+    "DESCRIPTIONS": [
+      "Заряжает 1 сферу и даёт 2 #yСилы в начале боя."
+    ]
+  }
+}

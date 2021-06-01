@@ -1,0 +1,853 @@
+{
+  "PrismaMod:IllyaCarnivalPrismaAstolfo": {
+    "NAME": "Карнавальная призма Астольфо",
+    "DESCRIPTION": "Даёт один случайный эффект, восполняет !M! ОЗ, Даёт !M! Силы, Даёт !M! Ловкости, Даёт !M! Макс. ОЗ, Даёт 20 Золота. NL Сжигается",
+    "UPGRADE_DESCRIPTION": "Даёт один случайный эффект, восполняет !M! ОЗ, Даёт !M! Силы, Даёт !M! Ловкости, Даёт !M! Макс. ОЗ, Даёт [#3ddf3d]30[] Золота. NL Сжигается"
+  },
+
+  "PrismaMod:IllyaBerserCAR": {
+    "NAME": "БерсерКАР",
+    "DESCRIPTION": "Наносит !D! урона и даёт 1 [E] ."
+  },
+
+  "PrismaMod:IllyaCarnivalAttack": {
+    "NAME": "Атака карнавала",
+    "DESCRIPTION": "Наносит !D! урона. Заряжает !M! prismamod:Сферу_Атаки."
+  },
+
+  "PrismaMod:IllyaCarnivalDefend": {
+    "NAME": "Оборона карнавала",
+    "DESCRIPTION": "Даёт !B! Защиты. Заряжает !M! prismamod:Сферу_Обороны."
+  },
+
+  "PrismaMod:IllyaUncommonAOEAttack": {
+    "NAME": "Пылающий срез",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам и накладывает !M! Слабости."
+  },
+
+  "PrismaMod:IllyaAssassinRevenge": {
+    "NAME": "Рефлекс убийцы",
+    "DESCRIPTION": "Заряжает 1 prismamod:Сферу_Яда и накладывает !M! Яда, когда вы теряете ОЗ от атак."
+  },
+
+  "PrismaMod:IllyaCarnivalOrbs": {
+    "NAME": "Карнавал сфер",
+    "DESCRIPTION": "Заряжает 1 из всех следующих сфер: prismamod:Сфера_Атаки, prismamod:Сфера_Обороны, prismamod:Сфера_Яда, prismamod:Сфера_Цвай, prismamod:Сфера_Завешания и prismamod:Сфера_Убийцы."
+  },
+
+  "PrismaMod:IllyaCommonEvoke": {
+    "NAME": "Разряд",
+    "DESCRIPTION": "Разряжает 1 след. в очереди сферу.",
+    "UPGRADE_DESCRIPTION": "Разряжает 2  след. в очереди сферы."
+  },
+
+  "PrismaMod:IllyaDualEvoke": {
+    "NAME": "Двойная разрядка",
+    "DESCRIPTION": "Разряжает !M! след. в очереди сферы дважды."
+  },
+
+  "PrismaMod:IllyaEvokeAll": {
+    "NAME": "Полная разрядка",
+    "DESCRIPTION": "Разряжает ВСЕ сферы"
+  },
+
+  "PrismaMod:IllyaHassanGift": {
+    "NAME": "Подарок Убийцы",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Яда."
+  },
+
+  "PrismaMod:IllyaMultiEvoke": {
+    "NAME": "Мультиразрядка",
+    "DESCRIPTION": "Разряжает след. в очереди сферу X раз.",
+    "UPGRADE_DESCRIPTION" : "Разряжает след. в очереди сферу X раз и не убирает её."
+  },
+
+  "PrismaMod:IllyaRapidFire": {
+    "NAME": "Быстрый огонь",
+    "DESCRIPTION": " prismamod:Силисимая. NL Наносит !D! урона !M! раза. Количество раз уменьшается на количество слотов для сфер."
+  },
+
+  "PrismaMod:IllyaReinForce": {
+    "NAME": "Сдерживание силы",
+    "DESCRIPTION": " prismamod:Ловисимая. Даёт !B! Защиты !M! раза. Количество раз уменьшается на количество слотов для сфер."
+  },
+
+  "PrismaMod:IllyaSaphire": {
+    "NAME": "Сапфир",
+    "DESCRIPTION": "Даёт !M! слот для сфер. Вы берёте !PrismaMod:SecondMagic! карты. NL Сжигается."
+  },
+
+  "PrismaMod:IllyaUberChannel": {
+    "NAME": "Мега зарядка",
+    "DESCRIPTION": "Заряжает случайные сферы во все слоты."
+  },
+
+  "PrismaMod:IllyaUncommonEvoke": {
+    "NAME": "Быстрая разрядка",
+    "DESCRIPTION": "Разряжает и Заряжает первую сферу."
+  },
+
+  "PrismaMod:IllyaUpgradeOrbs": {
+    "NAME": "Улучшение сфер",
+    "DESCRIPTION": "Удваивает Разрядку и пассивные эффекты сфер на этот ход."
+  },
+
+  "PrismaMod:IllyaBlindPoisonToss": {
+    "NAME": "Слепой бросок",
+    "DESCRIPTION": "Накладывает !PrismaMod:SecondMagic! Яда на !M! случайных врагов."
+  },
+
+  "PrismaMod:IllyaFeed": {
+    "NAME": "Кормить",
+    "DESCRIPTION": "Наносит !D! урона. Восполняет ОЗ на количество Яда на цели (макс. 15.)"
+  },
+
+  "PrismaMod:IllyaFriendMaker": {
+    "NAME": "Создатель друзей",
+    "DESCRIPTION": "Наносит !D! случайному врагу. Накладывает !M! Яда."
+  },
+
+  "PrismaMod:IllyaPoisonBomb": {
+    "NAME": "Бомба яда",
+    "DESCRIPTION": "Накладывает !M! Яда на ВСЕХ врагов."
+  },
+
+  "PrismaMod:IllyaPoisoningPhantasm": {
+    "NAME": "Ядовитый фантом",
+    "DESCRIPTION": "prismamod:Распространяет весь Яд на враге."
+  },
+
+  "PrismaMod:IllyaPoisonTippedWeapons": {
+    "NAME": "Ядовитые лезвия",
+    "DESCRIPTION": "Все атаки накладывают !M! Яда.",
+    "UPGRADE_DESCRIPTION": "Оставляется. NL Все атаки накладывают !M! Яда."
+  },
+
+  "PrismaMod:IllyaRussianRoulette": {
+    "NAME": "Русская рулетка",
+    "DESCRIPTION": "Накладывает !M! Яда на случайные цели в комнате."
+  },
+
+  "PrismaMod:IllyaStunPoison": {
+    "NAME": "Ядоглуш",
+    "DESCRIPTION": "Наносит !D! урона. Наносит ещё !D! урона если цель отравлена."
+  },
+
+  "PrismaMod:IllyaCommonAttack": {
+    "NAME": "Стрельба",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+
+  "PrismaMod:IllyaBoysLove": {
+    "NAME": "Любовь парней",
+    "DESCRIPTION": "Накладывает !M! Яда на ВСЕХ врагов."
+  },
+
+  "PrismaMod:IllyaDetonatingBlow": {
+    "NAME": "Взрывной кулак",
+    "DESCRIPTION": "Наносит !D! урона. prismamod:Распространяет Яд на цели."
+  },
+
+  "PrismaMod:IllyaCommonDefend": {
+    "NAME": "Щит",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+
+  "PrismaMod:IllyaUncommonAttack": {
+    "NAME": "Истиный огонь",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Уязвимости."
+  },
+
+  "PrismaMod:IllyaUncommonDefend": {
+    "NAME": "Истиный щит",
+    "DESCRIPTION": "Даёт !B! Защиты и !M! prismamod:Панциря."
+  },
+
+  "PrismaMod:IllyaBride": {
+    "NAME": "Свадебные подарки",
+    "DESCRIPTION": "Вы берёте !M! карты. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Оставляется. Начальная. NL Вы берёте !M! карты. NL Сжигается."
+  },
+
+  "PrismaMod:IllyaDevil": {
+    "NAME": "Девочка-дьявол",
+    "DESCRIPTION": "Наносит !D! урона. Вы берёте !M! карту."
+  },
+
+  "PrismaMod:IllyaGun": {
+    "NAME": "Пушка",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+
+  "PrismaMod:IllyaMaid": {
+    "NAME": "Горничная",
+    "DESCRIPTION": "Вы получаете в 2 раза больше урона в этом ходу. Даёт [E] [E] [E] в следующем ходу."
+  },
+
+  "PrismaMod:IllyaZwei": {
+    "NAME": "Облик Цвай",
+    "DESCRIPTION": "Снимает все prismamod:Установки. Даёт !M! Силы и 13 [E] . Вы берёте !PrismaMod:SecondMagic! карт, заряжает во все слоты prismamod:Сферы_Цвай, и вызывает prismamod:Полную_детонацию в конце хода. Отнимает 99 Силы и даёт 99 Уязвимости в следующем ходу. Отнимает всю [E] в начале каждого хода."
+  },
+
+  "PrismaMod:IllyaAlice": {
+    "NAME": "Облик Алисы",
+    "DESCRIPTION": "Даёт !M! Уязвимости. Шанс получить уникальную реликвию или восполнить !PrismaMod:SecondMagic! ОЗ. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Даёт !M! Уязвимости. Восполняет !PrismaMod:SecondMagic! ОЗ. NL Сжигается."
+  },
+
+  "PrismaMod:IllyaTestament": {
+    "NAME": "Завещание",
+    "DESCRIPTION": "Разряжает ВСЕ сферы. Заряжает во все слоты prismamod:Сферы_Завещания."
+  },
+
+  "PrismaMod:IllyaCommandSeal": {
+    "NAME": "Командная печать",
+    "DESCRIPTION": "Восполняет !M! ОЗ и даёт !PrismaMod:SecondMagic! Неосязаемости."
+  },
+
+  "PrismaMod:IllyaRubysPotion": {
+    "NAME": "Зелье Руби",
+    "DESCRIPTION": "Восполняет !M! ОЗ. NL Сжигается."
+  },
+
+  "PrismaMod:IllyaAOECommonAttack": {
+    "NAME": "Огненный срез",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам."
+  },
+
+  "PrismaMod:IllyaGrail": {
+    "NAME": "Грааль",
+    "DESCRIPTION": "Вы берёте !M! карты. Даёт [E] [E]. NL Сжигается."
+  },
+
+  "PrismaMod:IllyaGrailKun": {
+    "NAME": "Грааль-кун",
+    "DESCRIPTION": "Выберите 1 Атаку и Навык из стопки добора и положите их в руку."
+  },
+
+  "PrismaMod:IllyaPartialInstallAssassin": {
+    "NAME": "Частичная установка убийцы",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам, когда вы разыгрываете Атаку в этом ходу. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Оставляется. Наносит !D! урона ВСЕМ врагам когда вы разыгрываете Атаку в этом ходу. NL Сжигается."
+  },
+
+  "PrismaMod:IllyaMinorZwei": {
+    "NAME": "Малый облик Цвай",
+    "DESCRIPTION": "Даёт !B! Защиты. Добавляет !M! *Ожога в руку."
+  },
+
+  "PrismaMod:IllyaCheapDefend": {
+    "NAME": "Малый Авалон",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+
+  "PrismaMod:IllyaCheapAttack": {
+    "NAME": "Малый Экскалибур",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Слабости."
+  },
+
+  "PrismaMod:IllyaChanneledBlock": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": " "
+  },
+
+  "PrismaMod:IllyaChanneledAttack": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": ""
+  },
+
+  "PrismaMod:IllyaCheapChannelAttack": {
+    "NAME": "Малая сфера атаки",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Атаки."
+  },
+
+  "PrismaMod:IllyaCheapChannelDefend": {
+    "NAME": "Малая сфера обороны",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Обороны."
+  },
+
+  "PrismaMod:IllyaCheapChannelPoison": {
+    "NAME": "Малая сфера яда",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Яда."
+  },
+
+  "PrismaMod:IllyaMinorRapidFire": {
+    "NAME": "Малый быстрый огонь",
+    "DESCRIPTION": "Наносит !D! урона. Вы берёте !M! карту."
+  },
+
+  "PrismaMod:IllyaMinorReinForce": {
+    "NAME": "Малое сдерживание силы",
+    "DESCRIPTION": "Даёт !B! Защиты. Вы берёте !M! карту."
+  },
+
+  "PrismaMod:IllyaUberAttackChannel": {
+    "NAME": "Мега зарядка атак",
+    "DESCRIPTION": "Заряжает во все слоты prismamod:Сферы_Удара."
+  },
+
+  "PrismaMod:IllyaUberDefendChannel": {
+    "NAME": "Мега зарядка оборон",
+    "DESCRIPTION": "Заряжает во все слоты prismamod:Сферы_Обороны."
+  },
+
+  "PrismaMod:IllyaUberPoisonChannel": {
+    "NAME": "Мега зарядка яда",
+    "DESCRIPTION": "Заряжает во все слоты prismamod:Сферы_Яда."
+  },
+
+  "PrismaMod:IllyaUberPoisonBlock": {
+    "NAME": "Мега ядощит",
+    "DESCRIPTION": "prismamod:Средне_поглощает Яд. Даёт !M! Защиты. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "prismamod:Сильно_поглощает Яд. Даёт !M! Защиты. NL Сжигается."
+  },
+
+  "PrismaMod:IllyaPoisonBlock": {
+    "NAME": "Ядощит",
+    "DESCRIPTION": "prismamod:Мало_поглощает Яд. Даёт !M! Защиты. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "prismamod:Средне_поглощает Яд. Даёт !M! Защиты. NL Сжигается."
+  },
+
+
+
+
+
+  "PrismaMod:IllyaInstallArcher": {
+    "NAME": "Установка Арчер",
+    "DESCRIPTION": "prismamod:Установка. NL Снижает стоимость случайной карты в руке до 0 и даёт 1 Силу в начале каждого хода."
+  },
+
+  "PrismaMod:IllyaInstallAssassin": {
+    "NAME": "Установка Ассасин",
+    "DESCRIPTION": "prismamod:Установка. NL Даёт prismamod:Уклонение в начале каждого хода. ВСЕ Атаки накладывают 1 Яд. Атаки наносят на !M!% больше урона и вы получаете на !PrismaMod:SecondMagic!% больше урона от Атак. Заряжает 1 prismamod:Сферу_Убийцы. Против боссов Атаки будут дополнительно наносить 3 игнорирующего Защиту урона и накладывать 1 Яд."
+  },
+
+  "PrismaMod:IllyaInstallBerserker": {
+    "NAME": "Установка Берсеркер",
+    "DESCRIPTION": "prismamod:Установка. NL Вы получаете и наносите в 2 раза больше урона."
+  },
+
+  "PrismaMod:IllyaInstallCaster": {
+    "NAME": "Установка Кастер",
+    "DESCRIPTION": "prismamod:Установка. NL Даёт 1 prismamod:Энергичность. Усиливает сферы. Даёт 1 слот для сфер. Заряжает 1 случайную сферу каждый ход."
+  },
+
+  "PrismaMod:IllyaInstallLancer": {
+    "NAME": "Установка Лансер",
+    "DESCRIPTION": "prismamod:Установка. NL Каждая !M! Атака накладывает Хрупкость, Уязвимость и Слабость."
+  },
+
+  "PrismaMod:IllyaInstallRider": {
+    "NAME": "Установка Райдер",
+    "DESCRIPTION": "prismamod:Установка. NL Даёт !M! Ловкости каждый ход. Каждая Атака наносит !PrismaMod:SecondMagic! игнорирующего Защиту урона всем, кроме босса."
+  },
+
+  "PrismaMod:IllyaInstallSaber": {
+    "NAME": "Установка Сэйбер",
+    "DESCRIPTION": "prismamod:Установка. NL Даёт 1 Силы каждый ход. Наносит !M! урона, игнорирующего Защиту, боссам. Восполняет !PrismaMod:SecondMagic! ОЗ. В начале каждого вашего хода первая Атака наносит на 50% больше урона."
+  },
+
+  "PrismaMod:IllyaInstallForeigner": {
+    "NAME": "Установка Форейнер",
+    "DESCRIPTION": "prismamod:Установка. NL Удваивает эффект при разрядке. Урон от разрядки сфер накладывает Яд на врагов."
+  },
+
+  "PrismaMod:IllyaInstallAvenger": {
+    "NAME": "Установка Эвенджер",
+    "DESCRIPTION": "prismamod:Установка. NL Снижает весь урон наполовину, кроме боссов и наносит !M! урона ВСЕМ врагам в начале каждого хода."
+  },
+
+  "PrismaMod:IllyaInstallAlterEgo": {
+    "NAME": "Установка Альтер Эго",
+    "DESCRIPTION": "prismamod:Установка. NL Даёт 1 слот для сфер. Разряжает 1 след. в очереди сферу в начале каждого хода. Все Навыки теперь стоят на [E] меньше."
+  },
+
+  "PrismaMod:IllyaInstallMoonCancer": {
+    "NAME": "Установка Moon Cancer",
+    "DESCRIPTION": "prismamod:Установка. NL Добавляет 1 бесцветную карту в руку в начале каждого хода. Удваивает пассивный эффект сфер. Даёт 1 Слот для сфер."
+  },
+
+  "PrismaMod:IllyaInstallRuler": {
+    "NAME": "Установка Рулер",
+    "DESCRIPTION": "prismamod:Установка. NL Даёт 1 Силы и Ловкости в начале каждого вашего хода."
+  },
+
+  "PrismaMod:IllyaInstallShielder": {
+    "NAME": "Установка Шилдер",
+    "DESCRIPTION": "prismamod:Установка. NL Даёт !M! Защиты и восполняет !PrismaMod:SecondMagic! ОЗ."
+  },
+
+
+
+
+  "PrismaMod:ChloeExhaustOne": {
+    "NAME": "Малое разрушение",
+    "DESCRIPTION": "Выберите 1 карту в колоде и сожгите её.  Даёт !M! *Стрелу."
+  },
+
+  "PrismaMod:ChloeExhaustTwo": {
+    "NAME": "Среднее разрушение",
+    "DESCRIPTION": "Выберите 2 карты в колоде и сожгите их.  Даёт !M! *Стрелу за каждую сожжённую."
+  },
+
+  "PrismaMod:ChloeExhaustThree": {
+    "NAME": "Мега разрушение",
+    "DESCRIPTION": "Выберите 3 карты в колоде и сожгите их.  Даёт !M! *Стрелу за каждую сожжённую."
+  },
+
+  "PrismaMod:ChloeChristmas": {
+    "NAME": "Подарки на рождество",
+    "DESCRIPTION": "Вы берёте !M! карты."
+  },
+
+  "PrismaMod:ChloeDemonicTutor": {
+    "NAME": "Демон учитель",
+    "DESCRIPTION": "Выберите !M! карту в колоде и положите её в руку.",
+    "UPGRADE_DESCRIPTION": "Выберите !M! карты в колоде и положите их в руку."
+  },
+
+  "PrismaMod:ChloeDevil": {
+    "NAME": "Маска демона",
+    "DESCRIPTION": "Наносит !D! урона и восполняет !M! ОЗ. NL Сжигается."
+  },
+
+  "PrismaMod:ChloeDiscardRecovery": {
+    "NAME": "Возвращение следа",
+    "DESCRIPTION": "Выберите !M! карту из стопки сброса и положите её в руку.",
+    "UPGRADE_DESCRIPTION": "Выберите !M! карты из стопки сброса и положите их в руку."
+  },
+
+  "PrismaMod:ChloeHalloween": {
+    "NAME": "Сладость или гадость",
+    "DESCRIPTION": "Добавляет !M! Проклятие или !M! случайную карту.",
+    "UPGRADE_DESCRIPTION": "Добавляет !M! Проклятия или !M! случайных карты."
+  },
+
+  "PrismaMod:ChloeMaid": {
+    "NAME": "Облик горничной",
+    "DESCRIPTION": "Вы получаете удвоенный урон в этом ходу.  Даёт [E] [E] [E] в следующем ходу."
+  },
+
+  "PrismaMod:ChloeMordred": {
+    "NAME": "Облик Мордред",
+    "DESCRIPTION": "Даёт !M! Силы. NL Сжигается."
+  },
+
+  "PrismaMod:ChloeReshuffleDiscard": {
+    "NAME": "Регенерирующий след",
+    "DESCRIPTION": "Вы перетасовываете карты из стопки сброса в стопку добора и берёте !M! карты."
+  },
+
+  "PrismaMod:ChloeRitsuka": {
+    "NAME": "Красноволосый мастер",
+    "DESCRIPTION": "Даёт !M! Ловкости. NL Сжигается."
+  },
+
+  "PrismaMod:ChloeUnlimitedBladeWorks": {
+    "NAME": "Бесконечный мир клинков",
+    "DESCRIPTION": "Выберите до 3 prismamod:Отслеженных карт и положите их в руку с 0 стоимостью.",
+    "UPGRADE_DESCRIPTION": "Выберите до 3 prismamod:Отслеженных карт, улучшите и положите их в руку с 0 стоимостью."
+  },
+
+  "PrismaMod:ChloeCarnivalAOEAttack": {
+    "NAME": "АОЕ атака карнавала",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам и Сжигает до 1 карты за каждого. Даёт 2 prismamod:Стрелы за каждую сожжённую карту."
+  },
+
+  "PrismaMod:ChloeCarnivalAttack": {
+    "NAME": "Атака карнавала",
+    "DESCRIPTION": "Наносит !D! урона. Даёт !M! Силы."
+  },
+
+  "PrismaMod:ChloeCarnivalDefend": {
+    "NAME": "Оборона карнавала",
+    "DESCRIPTION": "Даёт !B! Защиты. Даёт !M! Ловкости."
+  },
+
+  "PrismaMod:ChloeCheapAttack": {
+    "NAME": "Скрытная атака",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Уязвимости."
+  },
+
+  "PrismaMod:ChloeCheapAttackTwo": {
+    "NAME": "Пробивной слабака",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Слабости."
+  },
+
+  "PrismaMod:ChloeCheapDefend": {
+    "NAME": "Магическая бронь",
+    "DESCRIPTION": "Даёт !B! Защиты.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. Сжигает 1 карту и даёт 2 *Стрелы."
+  },
+
+  "PrismaMod:ChloeCheapDefendTwo": {
+    "NAME": "Импровизированная броня",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+
+  "PrismaMod:ChloeCommonAOEAttack": {
+    "NAME": "Широкий разрез",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам."
+  },
+
+  "PrismaMod:ChloeCommonAttack": {
+    "NAME": "Порез",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+
+  "PrismaMod:ChloeCommonDefend": {
+    "NAME": "Щит",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+
+  "PrismaMod:ChloeShiv": {
+    "NAME": "Стрела",
+    "DESCRIPTION": "Наносит !D! урона. NL Сжигается."
+  },
+
+  "PrismaMod:ChloeUncommonAOEAttack": {
+    "NAME": "Обширный смах",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам."
+  },
+
+  "PrismaMod:ChloeUncommonAttack": {
+    "NAME": "Копьё",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Уязвимости."
+  },
+
+  "PrismaMod:ChloeUncommonDefend": {
+    "NAME": "Блокада",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+
+  "PrismaMod:ChloeBetterTracePools": {
+    "NAME": "Улучшение слежки",
+    "DESCRIPTION": "Вы больше не prismamod:Отследите обычные карты."
+  },
+
+  "PrismaMod:ChloeDoubleRelicSpeed": {
+    "NAME": "Ускорение слежки",
+    "DESCRIPTION": "Каждая карта для *Каншо *и *Бакуя теперь считается за две."
+  },
+
+  "PrismaMod:ChloeGreatTracePools": {
+    "NAME": "Превознесение слежки",
+    "DESCRIPTION": "Вы больше не prismamod:Отследите обычные и необычные карты."
+  },
+
+  "PrismaMod:ChloeCaladbolg": {
+    "NAME": "Каладболг",
+      "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам !M! раза."
+  },
+
+  "PrismaMod:ChloeExcalibur": {
+    "NAME": "Экскалибур",
+    "DESCRIPTION": "Наносит !D! урона. Наносит удвоенный урон против боссов."
+  },
+
+  "PrismaMod:ChloeEyeOfTheEuryale": {
+    "NAME": "Глаз Эвриалы",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает 1 prismamod:Влечения."
+  },
+
+  "PrismaMod:ChloeGaeBolg": {
+    "NAME": "Гэй Болг",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Слабости, Уязвимости и Хрупкости."
+  },
+
+  "PrismaMod:ChloePhantasmPunishment": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+
+  "PrismaMod:ChloeRhongomyniad": {
+    "NAME": "Ронгоминиад",
+    "DESCRIPTION": "Наносит !D! урона и снимает всю Защиту."
+  },
+
+  "PrismaMod:ChloeRuleBreaker": {
+    "NAME": "Rule Breaker",
+    "DESCRIPTION": "Наносит !D! урона и снимает все эффекты."
+  },
+
+  "PrismaMod:ChloeCreateableTraceCard": {
+    "NAME": "Отслеживание",
+    "DESCRIPTION": "Выберите 1 карту из некоторых наборов. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "улучшенная",
+    "EXTENDED_DESCRIPTION": ["Сжигается. NL Выберите 1 "," карту из "," "," ","."]
+  },
+
+  "PrismaMod:ChloeAnyAttackTrace": {
+    "NAME": "Отсл. Атаки",
+    "DESCRIPTION": "prismamod:Отслеживает 1 Атаку."
+  },
+
+  "PrismaMod:ChloeAnyCommonTrace": {
+    "NAME": "Отсл. Обычной карты",
+    "DESCRIPTION": "prismamod:Отслеживает 1 Обычную карту."
+  },
+
+  "PrismaMod:ChloeAnyPowerTrace": {
+    "NAME": "Отсл. Таланта",
+    "DESCRIPTION": "prismamod:Отслеживает 1 Талант."
+  },
+
+  "PrismaMod:ChloeAnyRareTrace": {
+    "NAME": "Отсл. Редкой карты",
+    "DESCRIPTION": "prismamod:Отслеживает 1 Редкую карту."
+  },
+
+  "PrismaMod:ChloeAnySkillTrace": {
+    "NAME": "Отсл. Навыка",
+    "DESCRIPTION": "prismamod:Отслеживает 1 Навык."
+  },
+
+  "PrismaMod:ChloeAnyUncommonTrace": {
+    "NAME": "Отсл. Необычной карты",
+    "DESCRIPTION": "prismamod:Отслеживает 1 Необычную карту."
+  },
+
+
+
+
+
+
+  "PrismaMod:MiyuBride": {
+    "NAME": "Свадебные подарки",
+    "DESCRIPTION": "Вы берёте !M! карты. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Начальная. Оставляется. Вы берёте !M! карты. NL Сжигается."
+  },
+  "PrismaMod:MiyuChristmas": {
+    "NAME": "Установка Санты",
+    "DESCRIPTION": "Выберите !M! карты в колоде и положите их в руку.",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuDevil": {
+    "NAME": "Установка дьявола",
+    "DESCRIPTION": "Наносит !D! урона. Вы берёте !M! карту.",
+    "UPGRADE_DESCRIPTION": "TEMP"
+  },
+  "PrismaMod:MiyuMaid": {
+    "NAME": "Установка горничной",
+    "DESCRIPTION": "Вы получите удвоенный урон в этом ходу. Даёт [E] [E] [E] в следующем ходу."
+  },
+  "PrismaMod:MiyuCarnivalAOEAttack": {
+    "NAME": "Взмах карнавала",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам !M! раза."
+  },
+  "PrismaMod:MiyuCarnivalAttack": {
+    "NAME": "Урол карнавала",
+    "DESCRIPTION": "Наносит !D! урона 3 раза."
+  },
+  "PrismaMod:MiyuCarnivalDefend": {
+    "NAME": "Щит карнавала",
+    "DESCRIPTION": "Даёт !B! Защиты. Даёт !M! Ловкости."
+  },
+  "PrismaMod:MiyuCheapAttack1": {
+    "NAME": "Включая Лансера",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Уязвимости."
+  },
+  "PrismaMod:MiyuCheapAttack2": {
+    "NAME": "Включая Арчера",
+    "DESCRIPTION": "Наносит !D! урона. Накладывает !M! Слабости."
+  },
+  "PrismaMod:MiyuCheapDefend1": {
+    "NAME": "Малый регенирирующий барьер",
+    "DESCRIPTION": "Даёт !B! Защиты. Даёт !M! [E] . NL Сжигается."
+  },
+  "PrismaMod:MiyuCheapDefend2": {
+    "NAME": "Живой барьер",
+    "DESCRIPTION": "Даёт !B! Защиты. Даёт !M! Панциря. NL Сжигается."
+  },
+  "PrismaMod:MiyuCheapDexBuff": {
+    "NAME": "Маги за шаги",
+    "DESCRIPTION": "Даёт !M! Ловкости."
+  },
+  "PrismaMod:MiyuCheapPlate": {
+    "NAME": "Включая Шилдер",
+    "DESCRIPTION": "Даёт !M! Шипов."
+  },
+  "PrismaMod:MiyuCheapStrBuff": {
+    "NAME": "Включая Берсеркера",
+    "DESCRIPTION": "Даёт !M! Силы."
+  },
+  "PrismaMod:MiyuCommonAOEAttack": {
+    "NAME": "Широкий разрез",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам."
+  },
+  "PrismaMod:MiyuCommonAttack": {
+    "NAME": "Лезвие сапфира",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "PrismaMod:MiyuCommonDefend": {
+    "NAME": "Щит",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "PrismaMod:MiyuDefenseAbsorbMinor": {
+    "NAME": "Включая Эвенджера",
+    "DESCRIPTION": "prismamod:Крадёт_Защиту."
+  },
+  "PrismaMod:MiyuDefenseAbsorbUber": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuDefenseExplosion": {
+    "NAME": "Наступательный барьер",
+    "DESCRIPTION": "prismamod:Взрывает_Защиту."
+  },
+  "PrismaMod:MiyuDefenseRemoval": {
+    "NAME": "Взор Медузы",
+    "DESCRIPTION": "Снимает всю Защиту и накладывает prismamod:Влечение. NL Сжигается."
+  },
+  "PrismaMod:MiyuUberAOEAttack": {
+    "NAME": "Вытягивание сил",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. Даёт !M! [E] за каждого врага в следующем ходу."
+  },
+  "PrismaMod:MiyuUberAttack": {
+    "NAME": "Включая Сэйбер",
+    "DESCRIPTION": "Наносит !D! урона. Восполняет !M! ОЗ."
+  },
+  "PrismaMod:MiyuUberDefend": {
+    "NAME": "Великий защитник",
+    "DESCRIPTION": "Даёт !M! prismamod:Уклонения. Даёт !B! Защиты. NL Сжигается."
+  },
+  "PrismaMod:MiyuUncommonAOEAttack": {
+    "NAME": "Огненный смах",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам и снимает с них Защиту."
+  },
+  "PrismaMod:MiyuUncommonAttack": {
+    "NAME": "Пика сапфир",
+    "DESCRIPTION": "Наносит !D! урона. Увеличивает свой урон на !M! до конца боя."
+  },
+  "PrismaMod:MiyuUncommonDefend": {
+    "NAME": "Великий энергобарьер",
+    "DESCRIPTION": "Даёт !B! Защиты. Увеличивает свою Защиту на !M! до конца боя."
+  },
+  "PrismaMod:MiyuUncommonDexBuff": {
+    "NAME": "Уроки маг. танца",
+    "DESCRIPTION": "Даёт !M! Ловкости, Силы и Фокуса."
+  },
+  "PrismaMod:MiyuUncommonPlate": {
+    "NAME": "Защита Эдельфельт",
+    "DESCRIPTION": "Даёт !M! Панциря. NL Сжигается."
+  },
+  "PrismaMod:MiyuUncommonStrBuff": {
+    "NAME": "Рост магсхем",
+    "DESCRIPTION": "Даёт !M! Фокуса."
+  },
+  "PrismaMod:MiyuAttackChannelAttack": {
+    "NAME": "Рассечение роста",
+    "DESCRIPTION": "Наносит !D! урона. Заряжает !M! prismamod:Сферу_Роста."
+  },
+  "PrismaMod:MiyuAttackChannelVul": {
+    "NAME": "Глубокий порез",
+    "DESCRIPTION": "Наносит !D! урона. Заряжает !M! prismamod:Сферу_Уязвимости."
+  },
+  "PrismaMod:MiyuAttackChannelWeak": {
+    "NAME": "Точный укол",
+    "DESCRIPTION": "Наносит !D! урона. Заряжает !M! prismamod:Сферу_Слабости."
+  },
+  "PrismaMod:MiyuChannelAttackEvoke": {
+    "NAME": "Маг-удар",
+    "DESCRIPTION": "Даёт !M! Фокуса. Наносит !D! урона !M! раза. Поглощает 1 слот для сфер."
+  },
+  "PrismaMod:MiyuChannelDefendEvoke": {
+    "NAME": "Укрепление",
+    "DESCRIPTION": "Даёт !M! Фокуса. Даёт !B! Защиты !M! раза. Поглощает 1 слот для сфер."
+  },
+  "PrismaMod:MiyuChannelHealEvoke": {
+    "NAME": "DEPRECATED Regenerative Stance",
+    "DESCRIPTION": "Разряжает след. в очереди сферу. Восполняет !M! ОЗ. NL Сжигается."
+  },
+  "PrismaMod:MiyuChannelRandomEvoke": {
+    "NAME": "DEPRECATED Guessing Game",
+    "DESCRIPTION": "DEPRECATED Exhaust. Evoke. Channel !M! prismamod:random_orb."
+  },
+  "PrismaMod:MiyuChannelVulEvoke": {
+    "NAME": "DEPRECATED Unfortunate Stance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! vulnerable."
+  },
+  "PrismaMod:MiyuChannelWeakEvoke": {
+    "NAME": "DEPRECATED Off Balance",
+    "DESCRIPTION": "DEPRECATED Evoke. Gain !M! weak."
+  },
+  "PrismaMod:MiyuCheapChannelAttack": {
+    "NAME": "Наступление сапфир",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Роста."
+  },
+  "PrismaMod:MiyuCheapChannelDefend": {
+    "NAME": "Защита сапфир",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Обороны."
+  },
+  "PrismaMod:MiyuCheapChannelHeal": {
+    "NAME": "Починка сапфир",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Лечения. NL Сжигается."
+  },
+  "PrismaMod:MiyuCheapChannelRandom": {
+    "NAME": "Игра в гачу",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Казино."
+  },
+  "PrismaMod:MiyuCheapChannelVul": {
+    "NAME": "Руководство Эдельфельт",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Уязвимости."
+  },
+  "PrismaMod:MiyuCheapChannelWeak": {
+    "NAME": "План сапфира",
+    "DESCRIPTION": "Заряжает !M! prismamod:Сферу_Слабости."
+  },
+  "PrismaMod:MiyuCheapEvoke": {
+    "NAME": "Выход",
+    "DESCRIPTION": "Разряжает след. в очереди сферу. Вы кладёте карту из стопки сброса в руку.",
+    "UPGRADE_DESCRIPTION": "Начальная. Разряжает след. в очереди сферу. Вы кладёте карту из стопки сброса в руку."
+  },
+  "PrismaMod:MiyuDefendChannelDefend": {
+    "NAME": "Кристаллизированная магия",
+    "DESCRIPTION": "Даёт !B! Защиты. Заряжает !M! prismamod:Сферу_Щита."
+  },
+  "PrismaMod:MiyuEvokeAll": {
+    "NAME": "Великое выпускание",
+    "DESCRIPTION": "Разряжает все сферы. Вы берёте !M! за каждую сферу."
+  },
+  "PrismaMod:MiyuEvokeAllAttack": {
+    "NAME": "Limit Breaker",
+    "DESCRIPTION": "Разряжает все сферы. Наносит !D! урона !M! раза."
+  },
+  "PrismaMod:MiyuEvokeAllDefend": {
+    "NAME": "Защита друзьяшек",
+    "DESCRIPTION": "Разряжает все сферы. Даёт !B! Защиты !M! раза."
+  },
+  "PrismaMod:MiyuEvokeBuffDex": {
+    "NAME": "Подарок Райдер",
+    "DESCRIPTION": "Разряжает след. в очереди сферу. Даёт !M! Ловкости до конца хода. NL Сжигается."
+  },
+  "PrismaMod:MiyuEvokeBuffStr": {
+    "NAME": "Подарок Гил",
+    "DESCRIPTION": "Сжигает все не Атаки в руке. Даёт !M! Золота. NL Сжигается."
+  },
+  "PrismaMod:MiyuEvokeCheapAttack": {
+    "NAME": "Включая Ассасина",
+    "DESCRIPTION": "Разряжает след. в очереди сферу. Наносит !D! урона. Накладывает !M! Слабости, Хрупкости и Уязвимости."
+  },
+  "PrismaMod:MiyuEvokeCheapDefend": {
+    "NAME": "Включая Рулер",
+    "DESCRIPTION": "Разряжает след. в очереди сферу. Получите в 2 раза меньше урона в следующем ходу. NL Сжигается."
+  },
+  "PrismaMod:MiyuOrbIncreasePerm": {
+    "NAME": "Среднее магическое расширение",
+    "DESCRIPTION": "Даёт !M! Слота для сфер до конца боя. NL Сжигается."
+  },
+  "PrismaMod:MiyuOrbIncreaseTemp": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "PrismaMod:MiyuMultiEvoke": {
+    "NAME": "Полное выпускание",
+    "DESCRIPTION": "Разряжает след. в очереди сферу X раз.",
+    "UPGRADE_DESCRIPTION": "Вы Разряжаете след. в очереди сферу X раз и берёте X карт."
+  },
+  "PrismaMod:MiyuEvokeTwo": {
+    "NAME": "Выпускание",
+    "DESCRIPTION": "Разряжает след. в очереди сферу !M! раза. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Разряжает след. в очереди сферу !M! раза."
+  }
+}

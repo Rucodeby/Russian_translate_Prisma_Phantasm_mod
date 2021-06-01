@@ -1,0 +1,157 @@
+{
+        "PrismaMod:IllyaArcherPower": {
+                "NAME": "Установка Арчер",
+                "DESCRIPTIONS": ["Даёт "," случайную карту в начале каждого хода. NL Даёт "," #yСилы в начале каждого хода"]
+        },
+        "PrismaMod:IllyaAssassinPower": {
+                "NAME": "Установка Ассасина",
+                "DESCRIPTIONS": ["Даёт #yУклонение в начале каждого вашего хода. NL Все #yАтаки накладывают "," #gЯда. NL Даёт "," #bСферу #bУбийцы. NL Вы наносите на ","% урона и получаете на ","% больше урона. NL Вы наносите доп. "," урона и накладываете "," #gЯда против боссов"]
+        },
+        "PrismaMod:IllyaAvengerPower": {
+                "NAME": "Установка Эвенджер",
+                "DESCRIPTIONS": ["Вы получаете на 25% меньше урона от элитных и обычных врагов. NL Наносит "," урона всем врагам в начале каждого хода."]
+        },
+        "PrismaMod:IllyaBerserkerPower": {
+                "NAME": "Установка Берсеркер",
+                "DESCRIPTIONS": ["Вы наносите и получаете #rУдвоенный урон."]
+        },
+        "PrismaMod:IllyaCasterPower": {
+                "NAME": "Установка Кастер",
+                "DESCRIPTIONS": ["Даёт "," #yЭнергичность в начале каждого вашего хода. Усиливает пассивные и разряжаемые эффекты сфер. Даёт "," слот для сфер. Заряжает "," случайную сферу в начале каждого хода."]
+        },
+        "PrismaMod:IllyaForeignerPower": {
+                "NAME": "Установка Форейнер",
+                "DESCRIPTIONS": ["Удваивает эффект сфер при #pРазрядке. NL Урон при #pРазрядке накладывает #yЯд."]
+        },
+        "PrismaMod:IllyaLancerPower": {
+                "NAME": "Установка Лансер",
+                "DESCRIPTIONS": ["Накладывает "," #gСлабости, #yХрупкости и #rУязвимости каждые "," #yАтаки."]
+        },
+        "PrismaMod:IllyaRiderPower": {
+                "NAME": "Установка Райдер",
+                "DESCRIPTIONS": ["Даёт ", " #yЛовкости в начале каждого хода. Наносит "," урона ВСЕМ врагам, когда вы разыгрываете #yАтаку, кроме боссов."]
+        },
+        "PrismaMod:IllyaSaberPower": {
+                "NAME": "Установка Сэйбер",
+                "DESCRIPTIONS": ["Даёт "," #yСилы в начале каждого вашего хода. NL Вы наносите доп. урон против #rБоссов. В начале каждого вашего хода первая #yАтака наносит на 50% больше урона."]
+        },
+        "PrismaMod:IllyaAlterEgoPower": {
+                "NAME": "Установка Альтер Эго",
+                "DESCRIPTIONS": ["Даёт "," Слот для сфер. Разряжает "," след. в очереди сферу в начале каждого хода. NL Все #yНавыки теперь стоят на "," [E] меньше."]
+        },
+        "PrismaMod:IllyaRulerPower": {
+                "NAME": "Установка Рулер",
+                "DESCRIPTIONS": ["Даёт "," #rСилы и #gЛовкости в начале каждого хода."]
+        },
+        "PrismaMod:IllyaMoonCancerPower": {
+                "NAME": "Установка Moon Cancer",
+                "DESCRIPTIONS": ["Даёт случайную бесцветную карту в руку в начале каждого вашего хода. NL Удваивает Пассивный эффект сфер."]
+        },
+        "PrismaMod:IllyaShielderPower": {
+                "NAME": "Установка Шилдер",
+                "DESCRIPTIONS": ["Даёт "," #yЗащиты в начале каждого хода."]
+        },
+        "PrismaMod:AssassinRevengePower": {
+                "NAME": "Отмщение",
+                "DESCRIPTIONS": ["Накладывает "," #yЯда и #bЗаряжает "," #gСферу #gЯда, когда вы теряете ОЗ от атак."]
+        },
+        "PrismaMod:IllyaZweiPower": {
+                "NAME": "Облик Цвай",
+                "DESCRIPTIONS": ["Ваши магцепи вот-вот выйдут из строя."]
+        },
+        "PrismaMod:MaidPower": {
+                "NAME": "Облик горничной",
+                "DESCRIPTIONS": ["Вы получаете удвоенный урон. Даёт "," [E] "," на следующий ход."]
+        },
+        "PrismaMod:UpgradeOrbsPower": {
+                "NAME": "Улучшение сфер",
+                "DESCRIPTIONS": ["Все сферы улучшены."]
+        },
+        "PrismaMod:HalfDamagePower": {
+                "NAME": "Взгляд Эвенджер",
+                "DESCRIPTIONS": ["Этот враг наносит в 2р меньше урона."]
+        },
+        "PrismaMod:EvadePower": {
+                "NAME": "Уклонение",
+                "DESCRIPTIONS": ["Первая атака врага не нанесёт урона."]
+        },
+        "PrismaMod:PartialInstallAssassinPower": {
+                "NAME": "Частичная установка убийцы",
+                "DESCRIPTIONS": ["Наносит "," урона всем врагам, когда вы разыгрываете #yАтаку."]
+        },
+        "PrismaMod:SaberDamageIncreasePower": {
+                "NAME": "Увеличение урона Сэйбер",
+                "DESCRIPTIONS": ["Первая #yАтака наносит на ","% больше урона."]
+        },
+        "PrismaMod:IllyaZweiDebuffPower": {
+                "NAME": "Облик Цвай",
+                "DESCRIPTIONS": ["Вы погибнете если разыграете второй облик Цвай."]
+        },
+        "PrismaMod:BridleOfChivalryPower": {
+                "NAME": "Поводья рыцаря",
+                "DESCRIPTIONS": ["Небесный фантазм"]
+        },
+        "PrismaMod:ChannelPower": {
+                "NAME": "Зарядка",
+                "DESCRIPTIONS": ["Этот слуга заряжает мощную атаку."]
+        },
+        "PrismaMod:CharismaPower": {
+                "NAME": "Charisma",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:CursedEyesPower": {
+                "NAME": "Cursed Eyes",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:DivinityPower": {
+                "NAME": "Божественность",
+                "DESCRIPTIONS": ["Все карты, которые вы берёте стоят на 1 [E] больше."]
+        },
+        "PrismaMod:InstinctPower": {
+                "NAME": "Инстинкт",
+                "DESCRIPTIONS": ["Следующая атака нанесёт тройной урон"]
+        },
+        "PrismaMod:MagicResistancePower": {
+                "NAME": "Magic Resistance",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:ManaBurstPower": {
+                "NAME": "Взрыв маны",
+                "DESCRIPTIONS": ["Следующая атака будет наносить урон дважды."]
+        },
+        "PrismaMod:MemoriesOfTheDragonPower": {
+                "NAME": "Воспоминания дракона",
+                "DESCRIPTIONS": ["Сердце, сотворенное из сущности дракона. NL Магическая сила, сравнимая с теплом земных недр. NL И вместе с рёвом дракона в сердце, король обнажает меч звёзд. NL Вот та самая сила, что делает Священный Меч сильнейшим."]
+        },
+        "PrismaMod:MonstrousStrengthPower": {
+                "NAME": "Monstrous Strength",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:MysticEyesPower": {
+                "NAME": "Mystic Eyes",
+                "DESCRIPTIONS": ["DEPRECATED"]
+        },
+        "PrismaMod:ShapelessIslandPower": {
+                "NAME": "Бесформенный остров",
+                "DESCRIPTIONS": ["После преследований три сестры сбежали на этот остров."]
+        },
+
+
+
+        "PrismaMod:ChloeBetterTracePoolsPower": {
+                "NAME": "Отслеживание+",
+                "DESCRIPTIONS": ["Вы больше не #yОтследите Обычные карты."]
+        },
+        "PrismaMod:ChloeDoubleRelicSpeedPower": {
+                "NAME": "Ускорение слежки",
+                "DESCRIPTIONS": ["Каждая карта для #yКаншо #yи #yБакуя теперь считается за две."]
+        },
+        "PrismaMod:ChloeGreatTracePoolsPower": {
+                "NAME": "Отслеживание++",
+                "DESCRIPTIONS": ["Вы больше не #yОтследите Обычные и #bНеобычные карты."]
+        },
+        "PrismaMod:ChloeStunPower": {
+                "NAME": "Влечение",
+                "DESCRIPTIONS": ["Оглушён до начала следующего хода."]
+        }
+}
