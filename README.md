@@ -10,3 +10,6 @@ https://mega.nz/file/gfZmAYST#ZDDgg4ViWeC1cNQCX9Rqu2r1_MbXAsuDNOPTcXJWpbY
 
 - Архив мода в расширении jar (Пример Lobotomy.jar). 
 
+###### Видеоинструкция
+
+https://www.youtube.com/watch?v=bBMtYdGAk0g
